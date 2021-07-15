@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://ghchart.rshah.org/409ba5/2016rshah" alt="2016rshah's Blue Github Chart" />
+
 
 ![](https://komarev.com/ghpvc/?username=WilliamColton)
 
