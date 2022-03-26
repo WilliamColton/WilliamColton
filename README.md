@@ -26,11 +26,7 @@ Here are some ideas to get you started:
 
 ### 🎉 WHAT CAN I DO
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,go,py,visualstudio,vscode,vue,wordpress,figma&theme=dark" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,go,py,visualstudio,vscode,vue,wordpress,figma&theme=dark)](https://skillicons.dev)
 
 ### 😄 MY CONTRIBUTION
 
