@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamColton)](https://github.com/anuraghazra/github-readme-stats)
 
+### ![0028B1F1](https://user-images.githubusercontent.com/65261805/160259284-27eabf30-5bd9-4054-af90-dec6e87f7fad.png)
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,go,py,visualstudio,vscode,vue,wordpress)](https://skillicons.dev)
 
 ### 😄 MY CONTRIBUTION
