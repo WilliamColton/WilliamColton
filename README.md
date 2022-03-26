@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 🎉 WHAT CAN I DO
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,go,py,visualstudio,vscode,vue,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,go,py,visualstudio,vscode,vue,wordpress,figma&theme=dark)](https://skillicons.dev)
 
 ### 😄 MY CONTRIBUTION
 
