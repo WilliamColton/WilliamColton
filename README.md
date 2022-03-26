@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamColton)](https://github.com/anuraghazra/github-readme-stats)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,go,py,visualstudio,vscode,vue,wordpress)](https://skillicons.dev)
+
 ### 😄 MY CONTRIBUTION
 
 <img src="https://ghchart.rshah.org/409ba5/2016rshah" alt="2016rshah's Blue Github Chart" />
