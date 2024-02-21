@@ -1,7 +1,9 @@
-### Hi,I'm William Colton!
-  A gopher.
+### Hi,I'm William Colton! 🤪
+
+  A gopher. []~(￣▽￣)~*
   
-  A learner.
+  A learner. o(〃＾▽＾〃)o
   
-  A creater.
+  A creater. ╰(*°▽°*)╯
   
+  ヾ(￣▽￣)Bye~Bye~ 
